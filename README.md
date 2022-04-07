@@ -1,1 +1,4 @@
-# code2-master
+# maven-project
+
+Simple Maven Project conflict
+
